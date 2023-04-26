@@ -1,0 +1,690 @@
+2023-04-14 10:37:51,273 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:37:51,273 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:38:53,029 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:38:53,045 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:38:53,191 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100?alt=json
+2023-04-14 10:38:53,196 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 10:38:54,053 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2023-04-14 10:39:31,612 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:39:31,612 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:39:31,752 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100?alt=json
+2023-04-14 10:39:31,752 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 10:39:32,552 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2023-04-14 10:39:59,890 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:39:59,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:40:00,033 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100?alt=json
+2023-04-14 10:40:00,033 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 10:40:00,912 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2023-04-14 10:41:28,464 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:41:28,467 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:41:28,613 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100?alt=json
+2023-04-14 10:41:28,617 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 10:41:29,630 - WARNING - Encountered 403 Forbidden with reason "PERMISSION_DENIED"
+2023-04-14 10:42:53,035 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 10:42:53,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 10:42:53,193 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100?alt=json
+2023-04-14 10:42:53,193 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:01:09,407 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:01:09,407 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:01:37,503 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:01:37,503 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:02:45,700 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:02:45,700 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:02:45,829 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:02:45,844 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:04:48,344 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:04:48,359 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:04:48,484 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:04:48,484 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:06:55,618 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:06:55,618 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:06:55,743 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA10:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:06:55,759 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:16:26,520 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:16:26,520 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:16:26,661 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/A1%3AD1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:16:26,661 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:18:51,843 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:18:51,843 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:18:51,970 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:18:51,993 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:20:29,735 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:20:29,739 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:20:29,889 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:20:29,889 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:21:31,414 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:21:31,414 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:21:31,589 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet3%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:21:31,589 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:28:56,223 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:28:56,228 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:28:56,371 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/A1%3AD1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:28:56,371 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:29:21,839 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:29:21,839 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:29:21,960 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/A1%3AD1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:29:21,960 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:30:29,759 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:30:29,759 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:30:29,894 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/A1%3AD1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:30:29,894 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 11:34:17,415 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 11:34:17,424 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 11:34:17,619 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AE:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 11:34:17,627 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:37:32,916 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:37:32,934 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:38:10,810 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:38:10,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:38:10,935 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:38:10,935 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:40:47,629 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:40:47,629 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:40:47,764 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:40:47,764 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:40:51,131 - DEBUG - URL being requested: PUT https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21C1?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:44:05,239 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:44:05,239 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:44:05,391 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:44:05,398 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:44:06,551 - DEBUG - URL being requested: PUT https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:44:49,963 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:44:49,963 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:44:50,089 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:44:50,089 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:44:51,096 - DEBUG - URL being requested: PUT https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A3?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:45:33,132 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:45:33,148 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:45:33,257 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:45:33,257 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:46:11,214 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:46:11,229 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:46:11,339 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:46:11,339 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:46:12,300 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1A3:clear?alt=json
+2023-04-14 12:46:24,684 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:46:24,701 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:46:24,836 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:46:24,837 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:46:25,845 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 12:47:03,419 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:47:03,438 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:47:03,546 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:47:03,546 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:47:04,608 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:clear?alt=json
+2023-04-14 12:47:54,087 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:47:54,087 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:47:54,213 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 12:47:54,217 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:56:30,805 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:56:30,812 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:57:21,051 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:57:21,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:57:21,200 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU:batchUpdate?alt=json
+2023-04-14 12:57:21,200 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 12:57:33,825 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 12:57:33,825 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 12:57:33,952 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU:batchUpdate?alt=json
+2023-04-14 12:57:33,954 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:27:53,496 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:27:53,496 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 13:27:53,638 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 13:27:53,638 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:27:57,202 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 13:28:40,998 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:28:41,000 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:28:41,005 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-14 13:28:41,387 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-14 13:28:41,387 - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2023-04-14 13:28:42,996 - DEBUG - https://www.googleapis.com:443 "GET /drive/v3/files?q=mimeType%3D%22application%2Fvnd.google-apps.spreadsheet%22+and+name+%3D+%22Data_Logging%22&pageSize=1000&supportsAllDrives=True&includeItemsFromAllDrives=True&fields=kind%2CnextPageToken%2Cfiles%28id%2Cname%2CcreatedTime%2CmodifiedTime%29 HTTP/1.1" 403 None
+2023-04-14 13:29:38,106 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:29:38,106 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 13:29:38,242 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 13:29:38,242 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:29:39,238 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 13:30:17,790 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:30:17,792 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:30:17,793 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-14 13:30:18,113 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-14 13:30:18,113 - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2023-04-14 13:30:18,620 - DEBUG - https://www.googleapis.com:443 "GET /drive/v3/files?q=mimeType%3D%22application%2Fvnd.google-apps.spreadsheet%22+and+name+%3D+%22Data_Logging%22&pageSize=1000&supportsAllDrives=True&includeItemsFromAllDrives=True&fields=kind%2CnextPageToken%2Cfiles%28id%2Cname%2CcreatedTime%2CmodifiedTime%29 HTTP/1.1" 403 None
+2023-04-14 13:34:45,031 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:34:45,031 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 13:34:45,157 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 13:34:45,166 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:34:46,303 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 13:35:57,397 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:35:57,397 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 13:35:57,507 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 13:35:57,507 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:35:58,464 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 13:36:41,139 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:36:41,139 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-14 13:36:41,264 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AH:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-14 13:36:41,264 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:36:42,252 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1WWZmiNk_0Wc9u8HcdHMW4xs496JoEizrHuQMzuZk9vU/values/sheet2%21A1%3AA3:clear?alt=json
+2023-04-14 13:37:06,796 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-14 13:37:06,797 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-14 13:37:06,804 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-14 13:37:07,093 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-14 13:37:07,093 - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2023-04-14 13:37:07,556 - DEBUG - https://www.googleapis.com:443 "GET /drive/v3/files?q=mimeType%3D%22application%2Fvnd.google-apps.spreadsheet%22+and+name+%3D+%22Data_Logging%22&pageSize=1000&supportsAllDrives=True&includeItemsFromAllDrives=True&fields=kind%2CnextPageToken%2Cfiles%28id%2Cname%2CcreatedTime%2CmodifiedTime%29 HTTP/1.1" 403 None
+2023-04-18 10:40:54,435 - DEBUG - Checking None for explicit credentials as part of auth process...
+2023-04-18 10:40:54,435 - DEBUG - Checking Cloud SDK credentials as part of auth process...
+2023-04-18 10:40:54,435 - DEBUG - Cloud SDK credentials not found on disk; not using them
+2023-04-18 10:40:54,450 - DEBUG - Making request: GET http://169.254.169.254
+2023-04-18 10:40:54,450 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-04-18 10:40:54,450 - DEBUG - Making request: GET http://169.254.169.254
+2023-04-18 10:40:54,466 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-04-18 10:40:54,466 - DEBUG - Making request: GET http://169.254.169.254
+2023-04-18 10:40:54,466 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2023-04-18 10:40:54,466 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2023-04-21 14:30:09,542 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:30:09,546 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:32:15,742 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:32:15,742 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:32:15,892 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet2%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 14:32:15,895 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 14:35:25,565 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:35:25,569 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:40:51,483 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:40:51,483 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:41:11,657 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:41:11,657 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:45:38,631 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:45:38,633 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:46:46,700 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:46:46,703 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:47:46,286 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:47:46,290 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:48:59,836 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:48:59,838 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:50:36,545 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:50:36,548 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:51:51,267 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:51:51,270 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:51:57,898 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:51:57,901 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:52:20,163 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:52:20,165 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 14:52:50,024 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 14:52:50,029 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:04:02,120 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 15:04:02,123 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:04:02,220 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1EumrrXJZ76L24iCNWEv0In_WrMWBKXZR/values/sheet2%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 15:04:02,236 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 15:04:50,134 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 15:04:50,136 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:04:50,240 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet2%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 15:04:50,240 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 15:05:07,654 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 15:05:07,657 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:05:07,757 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 15:05:07,757 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 15:14:22,294 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 15:14:22,308 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:14:22,422 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 15:14:22,426 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 15:14:53,394 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 15:14:53,394 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 15:14:53,536 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 15:14:53,536 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:39:06,028 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:39:06,035 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:39:06,212 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:39:06,222 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:39:31,331 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:39:31,331 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:39:31,463 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:39:31,463 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:40:51,015 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:40:51,031 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:40:51,125 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:40:51,141 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:44:59,011 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:44:59,027 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:44:59,136 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:44:59,136 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:59:37,973 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:59:37,973 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:59:38,083 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:59:38,099 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 16:59:55,881 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 16:59:55,881 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 16:59:56,000 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 16:59:56,001 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:00:43,778 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:00:43,778 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:00:43,903 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:00:43,903 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:02:48,009 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:02:48,011 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:02:48,126 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:02:48,128 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:02:58,041 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:02:58,041 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:02:58,167 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:02:58,169 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:03:26,005 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:03:26,005 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:03:26,126 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:03:26,128 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:03:36,677 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:03:36,677 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:03:36,796 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:03:36,796 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:03:44,510 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:03:44,510 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:03:44,612 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:03:44,628 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:03:53,459 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:03:53,459 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:03:53,580 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:03:53,580 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:10:30,148 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:10:30,164 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:10:30,269 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:10:30,269 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:19:57,340 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:19:57,340 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:19:57,451 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:19:57,467 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:20:25,817 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:20:25,817 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:20:25,935 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:20:25,935 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:21:35,967 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:21:35,967 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:21:36,083 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-21 17:21:36,085 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:22:27,302 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:22:27,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:23:05,237 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:23:05,242 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:23:05,341 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-21 17:23:05,357 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:30:24,065 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-21 17:30:24,065 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-21 17:30:24,187 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-21 17:30:24,187 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-21 17:30:25,818 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A2%3AFA5:clear?alt=json
+2023-04-22 10:19:03,653 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 10:19:03,669 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 10:19:03,796 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 10:19:03,812 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 10:52:54,919 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 10:52:54,926 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 10:53:04,469 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 10:53:04,469 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 10:53:04,579 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 10:53:04,579 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:08:00,347 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:08:00,347 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:08:01,133 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:08:01,142 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:08:51,072 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:08:51,072 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:08:51,599 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:08:51,599 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:08:52,792 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/%3Cbound%20method%20NDFrame.copy%20of%20%20%20%20Serial%20Number%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Batter%20Code%20%20BATTERY_VOLTAGE%20%20...%20%20Diff_Temp_Level_1%20%20Diff_Volt_Level_2%20%20Diff_Volt_Level_1%0A0%20%20%20D144023WC238%20%20INDMWC514001613%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.2%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A1%20%20%20D144023WC201%20%20INDMWC514001612%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A2%20%20%20D144023WC207%20%20INDMWC514001622%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A3%20%20%20%20%20%20%20%20%20%20%20Test%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A4%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A5%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A6%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A7%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A8%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A9%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A10%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A11%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A12%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A13%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A14%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A15%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A16%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A17%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A18%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A19%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A21%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A22%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A%0A%5B23%20rows%20x%20157%20columns%5D%3E:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 11:10:05,630 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:10:05,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:10:06,366 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:10:06,366 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:10:07,550 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/%3Cbound%20method%20NDFrame.copy%20of%20%20%20%20Serial%20Number%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Batter%20Code%20%20BATTERY_VOLTAGE%20%20...%20%20Diff_Temp_Level_1%20%20Diff_Volt_Level_2%20%20Diff_Volt_Level_1%0A0%20%20%20D144023WC238%20%20INDMWC514001613%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.2%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A1%20%20%20D144023WC201%20%20INDMWC514001612%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A2%20%20%20D144023WC207%20%20INDMWC514001622%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A3%20%20%20%20%20%20%20%20%20%20%20Test%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A4%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A5%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A6%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A7%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A8%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A9%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A10%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A11%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A12%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A13%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A14%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A15%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A16%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A17%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A18%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A19%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A21%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A22%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A%0A%5B23%20rows%20x%20157%20columns%5D%3E:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 11:11:05,599 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:11:05,599 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:11:06,404 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:11:06,412 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:11:50,930 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:11:50,930 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:11:51,500 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:11:51,506 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:15:02,083 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:15:02,083 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:15:02,209 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:15:02,214 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:15:04,284 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/%3Cbound%20method%20NDFrame.copy%20of%20%20%20%20Serial%20Number%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Batter%20Code%20%20BATTERY_VOLTAGE%20%20...%20%20Diff_Temp_Level_1%20%20Diff_Volt_Level_2%20%20Diff_Volt_Level_1%0A0%20%20%20D144023WC238%20%20INDMWC514001613%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.2%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A1%20%20%20D144023WC201%20%20INDMWC514001612%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A2%20%20%20D144023WC207%20%20INDMWC514001622%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A3%20%20%20%20%20%20%20%20%20%20%20Test%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A4%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A5%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A6%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A7%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A8%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A9%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A10%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A11%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A12%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A13%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A14%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A15%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A16%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A17%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A18%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A19%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A21%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A22%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A%0A%5B23%20rows%20x%20157%20columns%5D%3E:append?alt=json
+2023-04-22 11:16:13,686 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:16:13,700 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 11:16:13,821 - DEBUG - URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA?alt=json
+2023-04-22 11:16:13,837 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 11:16:15,638 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/%20%20%20Serial%20Number%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Batter%20Code%20%20BATTERY_VOLTAGE%20%20...%20%20Diff_Temp_Level_1%20%20Diff_Volt_Level_2%20%20Diff_Volt_Level_1%0A0%20%20%20D144023WC238%20%20INDMWC514001613%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.2%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A1%20%20%20D144023WC201%20%20INDMWC514001612%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A2%20%20%20D144023WC207%20%20INDMWC514001622%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2050.3%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200.0%0A3%20%20%20%20%20%20%20%20%20%20%20Test%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A4%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A5%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A6%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A7%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A8%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A9%20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A10%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A11%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A12%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A13%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A14%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A15%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A16%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A17%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A18%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A19%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A20%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A21%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A22%20%20%20%20%20Testsxasc%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Test2%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20...%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20NaN%0A%0A%5B23%20rows%20x%20157%20columns%5D:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 11:46:48,763 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:46:56,712 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:51:43,337 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:52:41,548 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:56:40,568 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 11:56:45,703 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:49:42,001 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:49:42,016 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:50:02,720 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:50:02,720 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:50:02,845 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A5%3AFA25:append?valueInputOption=RAW&alt=json
+2023-04-22 12:50:02,860 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:52:52,745 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:52:52,757 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:52:52,923 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=RAW&alt=json
+2023-04-22 12:52:52,923 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:53:18,954 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:53:18,954 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:53:19,109 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA:append?valueInputOption=RAW&alt=json
+2023-04-22 12:53:19,109 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:54:14,098 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:54:14,098 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:54:42,433 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:54:42,449 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:54:42,569 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 12:54:42,569 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:56:05,852 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:56:05,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:56:05,994 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 12:56:05,994 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:56:25,787 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:56:25,787 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:56:25,922 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 12:56:25,922 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 12:57:37,306 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:57:37,321 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:58:51,485 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:58:51,485 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 12:59:48,643 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 12:59:48,643 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 13:28:18,630 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 13:28:18,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 13:28:18,788 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 13:28:18,788 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 14:24:14,757 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 14:24:14,762 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 14:24:14,908 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 14:24:14,915 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 14:28:44,080 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 14:28:44,080 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 14:28:44,229 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 14:28:44,235 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 14:45:24,217 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 14:45:24,217 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 14:45:24,384 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 14:45:24,384 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 14:53:12,840 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 14:53:12,840 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 14:53:13,006 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 14:53:13,020 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 14:56:32,724 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 14:56:32,725 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 14:56:32,866 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 14:56:32,866 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 15:09:12,302 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 15:09:12,313 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 15:09:12,452 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 15:09:12,466 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 15:11:00,672 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 15:11:00,677 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 15:11:00,813 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 15:11:00,820 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:35:23,992 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:35:23,993 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:35:24,147 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 17:35:24,158 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:36:10,362 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:36:10,362 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:36:10,517 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 17:36:10,520 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:36:52,935 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:36:52,935 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:36:53,081 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=RAW&alt=json
+2023-04-22 17:36:53,092 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:40:08,488 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:40:08,493 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:40:08,626 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:40:08,639 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:41:06,011 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:41:06,011 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:41:06,185 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:41:06,191 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:41:28,626 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:41:28,626 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:41:28,827 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:41:28,828 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:41:51,261 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:41:51,261 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:41:51,399 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:41:51,402 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:42:19,763 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:42:19,763 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:42:19,923 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:42:19,927 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-22 17:49:11,504 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-22 17:49:11,513 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-22 17:49:11,677 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-22 17:49:11,688 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:23:20,356 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:23:20,369 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:23:20,770 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 03:23:20,777 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:42:25,111 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:42:25,127 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:42:25,255 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/Sheet1%21A1%3AC3:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 03:42:25,263 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:42:27,290 - INFO - Data has been uploaded to Google Sheets.
+2023-04-24 03:54:30,553 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:54:30,568 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:55:07,125 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:55:07,127 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:56:43,507 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:56:43,511 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:56:43,517 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:56:43,521 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:56:43,893 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:56:43,895 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:56:44,773 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 03:56:56,383 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:56:56,387 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:56:56,397 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:56:56,398 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:56:56,780 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:56:56,789 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:56:57,677 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 03:57:19,664 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:57:19,668 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:57:19,678 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:57:19,679 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:57:20,047 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:57:20,047 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:57:20,735 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 03:57:43,596 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:57:43,596 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:57:43,612 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:57:43,612 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:57:43,970 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:57:43,974 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:57:44,756 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 03:58:16,136 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:58:16,136 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:58:16,147 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:58:16,147 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:58:16,558 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:58:16,559 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:58:17,411 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 03:59:48,470 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 03:59:48,470 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 03:59:48,486 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 03:59:48,486 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 03:59:48,902 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 03:59:48,902 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 03:59:49,766 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 04:01:18,666 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:01:18,669 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:01:32,635 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:01:32,637 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:01:32,641 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:01:32,644 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 04:01:32,976 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 04:01:32,976 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 04:01:33,625 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 04:02:24,368 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:02:24,371 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:02:24,379 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:02:24,381 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-24 04:02:24,742 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-24 04:02:24,742 - DEBUG - Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-24 04:02:25,426 - DEBUG - https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c?includeGridData=false HTTP/1.1" 200 None
+2023-04-24 04:12:47,488 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:12:47,493 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:12:47,641 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:12:47,649 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:14:01,691 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:14:01,694 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:14:41,074 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:14:41,077 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:14:55,643 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:14:55,647 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:17:47,231 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:17:47,246 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:17:47,507 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:17:47,516 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:19:21,427 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:19:21,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:19:21,617 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A1%3AFA100:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:19:21,633 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:20:09,238 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:20:09,242 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:20:09,500 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:20:09,503 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:24:51,571 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:24:51,586 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:24:51,778 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:24:51,792 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:26:45,862 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:26:45,862 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:27:52,330 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:27:52,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:27:52,469 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:27:52,477 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:28:28,832 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:28:28,835 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:28:28,976 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:28:28,978 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:29:25,539 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:29:25,541 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:29:25,695 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:29:25,698 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 04:31:59,905 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 04:31:59,908 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 04:32:00,058 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 04:32:00,064 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:20:04,818 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:20:04,820 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:20:05,185 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:20:05,193 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:21:58,824 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:21:58,824 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:21:58,994 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:21:59,004 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:24:51,823 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:24:51,828 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:24:51,967 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:24:51,983 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:24:53,531 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A5%3AFA15:clear?alt=json
+2023-04-24 10:25:30,612 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:25:30,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:25:30,773 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:25:30,781 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:25:31,788 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1%21A5%3AFA100:clear?alt=json
+2023-04-24 10:31:50,324 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:31:50,324 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:31:50,568 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:31:50,577 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:32:39,095 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:32:39,111 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:32:39,275 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:32:39,275 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:34:00,614 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:34:00,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:34:00,780 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:34:00,796 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:45:02,809 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:45:02,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:45:37,964 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:45:37,964 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:45:45,066 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:45:45,066 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:45:59,911 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:45:59,911 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:46:42,246 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:46:42,246 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:47:09,214 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:47:09,217 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:47:09,507 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:47:09,507 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:47:36,423 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:47:36,423 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:48:09,823 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:48:09,823 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:50:41,384 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:50:41,384 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:50:54,547 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:50:54,547 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:51:18,209 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:51:18,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:51:18,721 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:51:18,721 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:51:49,701 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:51:49,706 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:51:50,235 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:51:50,245 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:52:17,247 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:52:17,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:52:17,704 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:52:17,712 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:56:37,458 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:56:37,477 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:57:14,005 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:57:14,005 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:57:14,456 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 10:57:14,456 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 10:57:42,651 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:57:42,664 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 10:57:53,812 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 10:57:53,812 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 11:19:36,853 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 11:19:36,861 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 11:19:37,048 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 11:19:37,064 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 11:22:22,140 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 11:22:22,140 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:05:44,809 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:05:44,809 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:06:08,619 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:06:08,619 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:06:08,784 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:06:08,792 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:06:39,653 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:06:39,653 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:06:39,813 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:06:39,821 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:07:03,565 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:07:03,565 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:07:03,732 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:07:03,732 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:08:08,312 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:08:08,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:08:08,470 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:08:08,478 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:08:40,678 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:08:40,678 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:08:40,823 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:08:40,828 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:10:16,259 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:10:16,259 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:10:16,384 - DEBUG - URL being requested: POST https://sheets.googleapis.com/v4/spreadsheets/1hzv14EF-TppuBWQAVYQ9s2kcHi12yPJH5oVcPqGfM0c/values/sheet1:append?valueInputOption=USER_ENTERED&alt=json
+2023-04-24 12:10:16,400 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2023-04-24 12:32:33,697 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:32:33,705 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:33:45,052 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:33:45,060 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 12:53:44,680 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 12:53:44,693 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-04-24 13:00:31,112 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 13:05:03,854 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-24 13:05:03,866 - INFO - file_cache is only supported with oauth2client<4.0.0
